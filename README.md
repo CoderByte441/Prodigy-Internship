@@ -30,12 +30,3 @@ Developed an Employee Management System with CRUD (Create, Read, Update, Delete)
 
 Created a Local Store E-commerce Platform allowing users to browse products, add items to cart, and checkout. Integrated with MongoDB for storing product information.
 
-
-
-## Tasks link
-
-| Task Number | Task Description                          | Status                                   |
-|-------------|-------------------------------------------|-----------------------------------------------------|
-| Task 1      | Secure User Authentication                | Completed |
-| Task 2      | Employee Management System                | Completed |
-| Task 3      | Local Store E-commerce Platform           | Completed |
